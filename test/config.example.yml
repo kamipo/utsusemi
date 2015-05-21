@@ -1,0 +1,9 @@
+default_connection: 'mysql2'
+
+connections:
+  mysql2:
+    arunit:
+      adapter: mysql2
+      database: utsusemi_unittest
+      username: root
+      encoding: utf8
