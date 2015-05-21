@@ -1,4 +1,4 @@
-# Utsusemi
+# Utsusemi [![Build Status](https://travis-ci.org/kamipo/utsusemi.svg)](https://travis-ci.org/kamipo/utsusemi)
 
 Utsusemi is a soft deleted as efficiently approach.
 
